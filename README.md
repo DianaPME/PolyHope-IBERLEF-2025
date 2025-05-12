@@ -1,6 +1,7 @@
 # 🕊️ PolyHope at IberLEF 2025: Optimism, Expectation or Sarcasm?
 
 Hope Speech Detection in Social Media Texts
+
 Welcome to the repository for the PolyHope Shared Task at IberLEF 2025! This repository contains the implementation and resources developed for tackling the challenge of detecting and classifying hope in social media texts across English and Spanish, including differentiating genuine hope from sarcasm.
 
 ## 🌟 Task Overview
